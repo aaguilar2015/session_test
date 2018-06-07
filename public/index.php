@@ -6,4 +6,6 @@
 		$_SESSION['count']++;
 	}
 	echo $_SESSION['count'];
+
+	phpinfo();
 ?>
